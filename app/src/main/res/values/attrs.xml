@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="MyBottomSheetBehavior_Params">
+        <attr name="peekHeight" format="dimension" />
+        <attr name="hideable" format="boolean" />
+    </declare-styleable>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BottomSheet</string>
+
+    <string name="my_bottom_sheet_behavior">ankit.com.bottomsheet.uiutils.MyBottomSheetBehavior</string>
+
+</resources>
